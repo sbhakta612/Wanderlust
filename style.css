@@ -15,7 +15,7 @@ html {
 header {
   width: 100vw;
   height: 100vh;
-  background-image: url(./assets/header-bg.png);
+  background-image: url(./assets/header-bg.jpg);
   background-position: bottom;
   background-size: cover;
   display: flex;
@@ -40,7 +40,7 @@ a {
 .line {
   width: 150px;
   height: 4px;
-  background: #fc036b;
+  background: orange;
   margin: 10px auto;
   border-radius: 5px;
 }
@@ -52,7 +52,7 @@ a {
 }
 .ctn {
   padding: 8px 15px;
-  background: #fc036b;
+  background: orange;
   border-radius: 30px;
   color: whitesmoke;
 }
@@ -83,7 +83,7 @@ ul {
   margin: 0 30px;
 }
 .active {
-  color: #fc036b;
+  color: orange;
   text-decoration: underline;
   font-weight: bold;
 }
@@ -148,7 +148,7 @@ p {
 .explore {
   width: 100%;
   height: 100vh;
-  background-image: url("./assets/bg2.png");
+  background-image: url("./assets/bg-2.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -253,11 +253,11 @@ img:hover {
 }
 .ctn:hover {
   background: whitesmoke;
-  color: #fc036b;
+  color: orange;
   box-shadow: 2px 2px 5px #00000056;
 }
 
 li:hover {
-  color: #fc036b;
+  color: orange;
   cursor: pointer;
 }
