@@ -204,7 +204,7 @@ p {
 
 .content-col h1 {
   font-size: 7vmin;
-  color: #484872;
+  color: blue;
 }
 
 .content-col .line {
@@ -231,7 +231,7 @@ p {
   min-height: 100px;
   padding: 20px 80px;
   margin: 0;
-  background: #484872;
+  background: blue;
   text-align: center;
   padding: 10px;
 }
